@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">andruino_project</string>
+    <string name="action_settings">ANDRUINO</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+
+</resources>
