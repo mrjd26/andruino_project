@@ -14,7 +14,7 @@ This project has a few key elements :
 This application is a Python/Django web application running on Google App Engine
 
 *Home server w/ port forwarded router
-A python script ( utilizing the socket and thread imports ) acts as a home server running on an Ubuntu OS.  Port forwarding is necessary and reservation of DHCP for the Ubuntu OS device */ Don't buy a router from D-Link ;) /*
+A python script ( utilizing the socket and thread imports ) acts as a home server running on an Ubuntu OS.  Port forwarding is necessary and reservation of DHCP for the Ubuntu OS device.  Don't buy a router from D-Link ;) !
 
 *Arduino Sketch for microcontroller
 The arduino sketch is the logic that is uploaded to the volatile memory on the Arduino microcontroller board
